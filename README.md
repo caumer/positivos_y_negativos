@@ -4,7 +4,7 @@
 
 About the project
 -------------
-Aplicación de consolola que calcualo si el valor ingresado es positivo o negativo.
+Aplicación de consola que calcuala si el valor ingresado es positivo o negativo.
 
 About C#
 -------------
