@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "contadorPositivosNegativos", "contadorPositivosNegativos\contadorPositivosNegativos.csproj", "{93048968-602F-47B4-BBF1-649CE2841CBD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{93048968-602F-47B4-BBF1-649CE2841CBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93048968-602F-47B4-BBF1-649CE2841CBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93048968-602F-47B4-BBF1-649CE2841CBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93048968-602F-47B4-BBF1-649CE2841CBD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2EB5BA06-E7CB-4546-BD79-F33D6922D0F5}
+	EndGlobalSection
+EndGlobal
